@@ -1,7 +1,6 @@
-# Comparative-ML-Models.ipynb
-Comparative analysis of Neural Networks, Naive Bayes, and Random Forest classifiers on real-world dataset.
-
 🎵 Lyrics-Based Genre Classification Using Machine Learning
+
+Comparative analysis of Neural Networks, Naive Bayes, and Random Forest classifiers on real-world dataset.
 
 📌 **Overview**
 This project explores whether musical genre can be accurately classified using lyrics alone, without relying on audio-based features such as tempo, loudness, or spectral analysis.
